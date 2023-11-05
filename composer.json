@@ -1,7 +1,7 @@
 {
     "name": "lucadima15/yii2-user",
     "description": "Flexible user registration and authentication module for Yii2 (original by Dektrium)",
-    "keywords": ["yii2", "yii2-user", "user management", "dektrium"],
+    "keywords": ["yii2", "yii2-user", "user management", "lucadima15"],
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
@@ -11,7 +11,7 @@
     "authors": [
         {
             "name": "Luca Di Mauro",
-            "email": "lucadima@gmail.com",
+            "email": "lucadima@gmail.com"
         }
     ],
     "minimum-stability": "dev",
